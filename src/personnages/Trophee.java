@@ -20,9 +20,9 @@ public class Trophee {
 		return equipement;
 	}
 
-public String donnerNom() {
-	return getGaulois().getNom();
+	public String donnerNom() {
+		return getGaulois().getNom();
 	
-}
+	}
 
 }
