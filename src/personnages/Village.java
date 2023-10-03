@@ -18,11 +18,11 @@ public class Gaulois {
 }
 
 // Classe Chef
-public class Chef extends Gaulois {
-    public Chef(String nomGaulois, int force) {
-        super(nomGaulois, force);
-    }
-}
+	public class Chef extends Gaulois {
+		public Chef(String nomGaulois, int force) {
+			super(nomGaulois, force);
+		}
+	}
 
 // Classe Village
 public class Village {
